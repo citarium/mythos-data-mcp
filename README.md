@@ -2,11 +2,13 @@
 
 > Comparative mythology as citable data — Greek, Roman, Norse and Egyptian gods and primary sources
 
-> **Status (2026-09-04): not yet answering.** The instance is built and
-> verified; the domain `mythosdata.dev` is registered and the deployment is
-> being wired. Until this note goes away, the endpoint below returns
-> nothing, and this repository is published ahead of it so the manifest,
-> the privacy policy and the client configuration are ready the day it does.
+> **Status (2026-09-04): deployed, domain propagating.** The instance is
+> live on Vercel — `citarium verify . --remote=<deployment>` passes 12
+> contract checks over 204 pages, and every surface below (MCP, `llms.txt`,
+> `ai-index.json`, `server.json`, sitemap) answers 200. `mythosdata.dev` is
+> attached to the deployment and its DNS resolves; the endpoint below has
+> not yet been confirmed answering from outside Vercel's edge. This note
+> goes away once that confirmation lands.
 
 A **remote MCP server** over a curated knowledge graph of comparative
 mythology. Every claim it returns is bound to a passage of a primary text
