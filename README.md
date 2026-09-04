@@ -2,14 +2,6 @@
 
 > Comparative mythology as citable data — Greek, Roman, Norse and Egyptian gods and primary sources
 
-> **Status (2026-09-04): deployed, domain propagating.** The instance is
-> live on Vercel — `citarium verify . --remote=<deployment>` passes 12
-> contract checks over 204 pages, and every surface below (MCP, `llms.txt`,
-> `ai-index.json`, `server.json`, sitemap) answers 200. `mythosdata.dev` is
-> attached to the deployment and its DNS resolves; the endpoint below has
-> not yet been confirmed answering from outside Vercel's edge. This note
-> goes away once that confirmation lands.
-
 A **remote MCP server** over a curated knowledge graph of comparative
 mythology. Every claim it returns is bound to a passage of a primary text
 — Hesiod, Homer, the Homeric Hymns, Apollodorus, Ovid, Virgil, Livy,
