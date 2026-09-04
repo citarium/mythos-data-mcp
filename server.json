@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.mythosdata/mythosdata",
+  "title": "MythosData",
+  "description": "Comparative mythology as citable data \u2014 Greek, Roman, Norse and Egyptian gods and primary sources",
+  "version": "2026.903.201",
+  "license": "CC-BY-4.0",
+  "websiteUrl": "https://mythosdata.dev",
+  "repository": {
+    "url": "https://github.com/citarium/mythos-data-mcp",
+    "source": "github"
+  },
+  "locales": [
+    "en"
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mythosdata.dev/mcp?via=registry"
+    }
+  ]
+}

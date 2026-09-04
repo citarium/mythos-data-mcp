@@ -1,0 +1,13 @@
+The knowledge content served by this MCP server, and the documentation in
+this repository, are licensed under CC BY 4.0 (see LICENSE).
+
+Attribution: cite the instance and link the canonical URL of the object you
+used. Every claim the server returns carries its own registered source, so
+the underlying evidence can and should be cited directly as well.
+
+The Citarium framework that compiles and serves this instance is a separate
+work, licensed under the Business Source License 1.1 (SPDX: BUSL-1.1). Each
+released version converts to Apache-2.0 four years after its release. The
+framework's source repository is not public, so this notice does not link
+it — what is public is this server, the corpus it serves, and the registered
+source behind every claim it returns.

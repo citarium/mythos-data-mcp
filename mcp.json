@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mythosdata": {
+      "type": "streamable-http",
+      "url": "https://mythosdata.dev/mcp"
+    }
+  }
+}
