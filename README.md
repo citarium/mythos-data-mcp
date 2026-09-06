@@ -15,6 +15,8 @@ Nothing to install. It is a hosted streamable-HTTP endpoint:
 https://mythosdata.dev/mcp
 ```
 
+Also listed on [Smithery](https://smithery.ai/servers/mythosdata/mythosdata).
+
 ## Add it to a client
 
 **Claude Code**
