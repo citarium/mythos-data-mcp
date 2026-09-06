@@ -2,6 +2,8 @@
 
 > Comparative mythology as citable data — Greek, Roman, Norse and Egyptian gods and primary sources
 
+[![smithery badge](https://smithery.ai/badge/mythosdata/mythosdata)](https://smithery.ai/servers/mythosdata/mythosdata)
+
 A **remote MCP server** over a curated knowledge graph of comparative
 mythology. Every claim it returns is bound to a passage of a primary text
 — Hesiod, Homer, the Homeric Hymns, Apollodorus, Ovid, Virgil, Livy,
@@ -14,8 +16,6 @@ Nothing to install. It is a hosted streamable-HTTP endpoint:
 ```
 https://mythosdata.dev/mcp
 ```
-
-Also listed on [Smithery](https://smithery.ai/servers/mythosdata/mythosdata).
 
 ## Add it to a client
 
